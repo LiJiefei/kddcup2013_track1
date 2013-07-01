@@ -27,6 +27,11 @@ then
     mkdir -p $rgf_model_dir
 fi
 
+if [ ! -d "src/train/tmp" ]
+then
+    mkdir -p src/train/tmp
+fi
+
 rgf_train_y="src/train/tmp/train-rgf-$cut_str-$reg-$num_leaf.y"
 rgf_train_x="src/train/tmp/train-rgf-$cut_str-$reg-$num_leaf.x"
 rgf_train_w="src/train/tmp/train-rgf-$cut_str-$reg-$num_leaf.w"

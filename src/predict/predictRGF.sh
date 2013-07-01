@@ -30,6 +30,10 @@ then
     exit -1
 fi
 
+if [ ! -d src/predict/tmp ]
+then
+    mkdir -p src/predict/tmp
+fi
 rgf_valid_x="src/predict/tmp/valid-rgf-$cut_str-$reg-$num_leaf.x"
 python src/predict/cutfeafile.py --feature_file $valid_features_file --feature_select_str $cut_str --output $rgf_valid_x
 
