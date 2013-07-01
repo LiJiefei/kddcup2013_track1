@@ -1,0 +1,10 @@
+{ 
+    "model_path": "output/model/",
+    "submission_path": "output/submit.csv",
+    "data_dir": "data/",
+    "train_csv": "data/TrainMergeValid.csv",
+    "valid_csv" : "data/Test.csv",
+    "train_feature_file":"output/features_file/trainfile",
+    "valid_feature_file":"output/features_file/validfile",
+    "RGF_ROOT":"../tools/rgf1.2/"
+}
