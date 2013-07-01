@@ -1,5 +1,5 @@
 ### My team
-Author: Jiefei Li, Xiaocong Liang, Weijie Ding, Weidong Yang \<br /\> 
+Author: Jiefei Li, Xiaocong Liang, Weijie Ding, Weidong Yang <br/>
 Team: justforfun & let me try & let us try \<br /\> 
 School: Sun-Yat Sen University \<br /\> 
 Email: lijiefei@mail2.sysu.edu.cn \<br /\> 
