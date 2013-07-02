@@ -21,7 +21,7 @@ RGF: http://stat.rutgers.edu/home/tzhang/software/rgf/ (please modify the RGF_RO
 ### Before Train Model and Make predictions
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br /> 
 Please Put the Confernce.csv, PaperAuthor.csv, Author.csv, Paper.csv, Jorunal.csv and so on into the data/ <br /> 
-If you want to change the test set, you can modeify the valid_csv in the SETTINGS.json <br /> 
+If you want to change the test set, you can modify the valid_csv in the SETTINGS.json <br /> 
 
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! <br /> 
 Notice!! <br /> 
