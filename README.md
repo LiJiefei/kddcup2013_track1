@@ -1,7 +1,7 @@
 ### My team
 Author: Jiefei Li, Xiaocong Liang, Weijie Ding, Weidong Yang <br/>
-Team: justforfun & let me try & let us try <br /> 
-School: Sun-Yat Sen University <br /> 
+Team: SYSU_Excalibur (5th place in kddcup2013 track1) <br /> 
+School: Sun Yat-Sen University <br /> 
 Email: lijiefei@mail2.sysu.edu.cn <br /> 
 
 ### License
@@ -11,7 +11,7 @@ Copyright [2013] [Jiefei Li, Xiaocong Liang, Weijie Ding, Weidong Yang ] License
 Linux, 32G mem, 12-core cpu, 500G disk <br /> 
 
 ### 3rd-party software
-Python2.6 <br /> 
+Python2.7 <br /> 
 sklearn: http://scikit-learn.org/stable/  (version 0.13.1) <br /> 
 Levenshtein: https://pypi.python.org/pypi/python-Levenshtein/ <br /> 
 RGF: http://stat.rutgers.edu/home/tzhang/software/rgf/ (please modify the RGF_ROOT in the SETTINGS.json) <br /> 
