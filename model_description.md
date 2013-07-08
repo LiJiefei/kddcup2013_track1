@@ -19,7 +19,7 @@ RGF(Regularization Greedy forest, http://stat.rutgers.edu/home/tzhang/software/r
 11) 1)/9) <br/>
 12) 2)/10) <br/>
 13) count paper appeared in the predict paperlist of the author <br/>
-14) the year of paper, if year>=2013, value=-1, if year &lt; 1600, value = 0  <br/>
+14) the year of paper, if year>2013, value=-1, if year &lt; 1600, value = 0  <br/>
 15) The affication of PaperAuthor.csv == the affication of the author in Author.csv <br/>
 16) count of coauthor whose affication is the same with the author <br/>
 17) the conferenceid of the paper <br/>
